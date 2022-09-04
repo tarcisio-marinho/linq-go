@@ -7,7 +7,7 @@ func (q Query[T]) Reverse() Query[T] {
 
 	maxIndex := len(q.Data) - 1
 	newQuery := Query[T]{}
-	for i := maxIndex; i > 0; i-- {
+	for i := maxIndex; i >= 0; i-- {
 		elem := q.Data[i]
 		newQuery.Data = append(newQuery.Data, elem)
 	}

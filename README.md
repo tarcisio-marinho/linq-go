@@ -1,3 +1,7 @@
+# Golang LINQ
+Golang version of .NET LINQ
+
+```go
 package main
 
 import (
@@ -39,3 +43,4 @@ func main() {
 	fmt.Println(output)
 	// [{2017 joaozinho 2} {2022 pedrinho 2} {2018 fernandinho 2} {2016 tarcisio 2}]
 }
+```
