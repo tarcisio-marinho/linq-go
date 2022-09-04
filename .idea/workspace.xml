@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f64afd2d-6d95-45fd-a91e-3449db97db30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Operations/Distinct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operations/Except.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operations/From.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operations/OrderBy.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operations/Query.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operations/Reverse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operations/Select.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operations/Where.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///opt/homebrew/Cellar/go/1.18.3/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Operations/Query.go" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/go/pkg/mod/github.com/ahmetb/go-linq/v3@v3.2.0/from.go" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/go/pkg/mod/github.com/ahmetb/go-linq/v3@v3.2.0/result.go" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/go/pkg/mod/github.com/ahmetb/go-linq/v3@v3.2.0/select.go" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/go/pkg/mod/github.com/ahmetb/go-linq/v3@v3.2.0/where.go" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EGLL32ajZ99HnJXOMuqKjsbNvQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tarcisio.marinho&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Go Build.go build linq-go">
+    <configuration name="go build Query.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="linq-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="linq-go" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Operations/Query.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build linq-go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="linq-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="linq-go" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="linq-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="linq-go" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build linq-go" />
+        <item itemvalue="Go Build.go build Query.go" />
+        <item itemvalue="Go Build.go build test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file:///opt/homebrew/Cellar/go/1.18.3/libexec/src/sort/sort.go</url>
+          <line>204</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
