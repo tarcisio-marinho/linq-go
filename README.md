@@ -37,10 +37,10 @@ func main() {
 	}
 
 	output := From(cars).Where(func(car Car) bool {
-		return car.year >= 2015
+		return car.year >= 2016
 	}).Reverse().ToSlice()
 
 	fmt.Println(output)
-	// [{2017 joaozinho 2} {2022 pedrinho 2} {2018 fernandinho 2} {2016 tarcisio 2}]
+	// [{2017 joaozinho 2} {2022 pedrinho 2} {2018 fernandinho 2}]
 }
 ```
